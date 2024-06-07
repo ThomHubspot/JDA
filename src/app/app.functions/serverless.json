@@ -2,7 +2,7 @@
   "appFunctions": {
     "getCompaniesWithDistanceBatch": {
       "file": "getCompaniesWithDistanceBatch.js",
-      "secrets": ["MAPBOX_ACCESS_TOKEN"]
+      "secrets": ["pk.eyJ1IjoidGhvbTEwODUiLCJhIjoiY2x4NGdtcjNhMWJ2ODJtcXN5cHRpazN1OSJ9.nfZyUnq-McPxiMrnbshHDg"]
     }
   }
 }
