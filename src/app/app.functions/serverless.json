@@ -2,7 +2,7 @@
   "appFunctions": {
     "getCompaniesWithDistanceBatch": {
       "file": "getCompaniesWithDistanceBatch.js",
-      "secrets": "pk.eyJ1IjoidGhvbTEwODUiLCJhIjoiY2x4NGdtcjNhMWJ2ODJtcXN5cHRpazN1OSJ9.nfZyUnq-McPxiMrnbshHDg"
+      "secrets": "pk.eyJ1IjoidGhvbTEwODUiLCJhIjoiY2x4NGdtcjNhMWJ2ODJtcXN5cHRpazN1OSJ9.nfZyUnq-McPxiMrnbshHDg",
     }
   }
 }
